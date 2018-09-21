@@ -83,7 +83,6 @@
     <Content Include="Registration.aspx" />
     <Content Include="sample.html" />
     <Content Include="Scope.html" />
-    <Content Include="setHours.j" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
