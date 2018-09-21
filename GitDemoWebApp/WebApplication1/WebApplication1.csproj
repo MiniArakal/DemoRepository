@@ -71,6 +71,7 @@
     <Content Include="Calculate.js" />
     <Content Include="Color.html" />
     <Content Include="DisplayDate.js" />
+    <Content Include="h2styles.css" />
     <Content Include="JSExpressions.js" />
     <Content Include="Length.html" />
     <Content Include="login.aspx" />
@@ -80,8 +81,8 @@
     <Content Include="packages.config" />
     <Content Include="RandomNo.js" />
     <Content Include="Registration.aspx" />
+    <Content Include="sample.html" />
     <Content Include="Scope.html" />
-    <Content Include="setHours.j" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

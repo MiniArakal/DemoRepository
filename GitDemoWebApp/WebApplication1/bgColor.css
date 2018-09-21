@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: lightblue;
+    background-color: lightblue;/*asasas*/
 }
 
 h1 {
@@ -9,5 +9,10 @@ h1 {
 
  p {
      font-family: verdana;
-     font-size: 20px;
+     font-size: 30px;
+ }
+
+ h2 {
+     font-family: verdana;
+     font-size: 40px;
  }
